@@ -39,7 +39,7 @@
     },
     {
       "type": "shell",
-      "inline": ["cd /home/ubunutu/app", "npm install"]
+      "inline": ["cd /home/ubuntu/app", "npm install"]
     }
   ]
 }
